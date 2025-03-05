@@ -9,7 +9,6 @@ https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr
 https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m64055e_220610_184017.reads.bam
 https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m64055e_220612_053542.reads.bam
 https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m64330e_220603_183322.reads.bam"
-GCF_009914755.1	
 GCF_028858775.2	"https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m54329U_220226_122930.hifi_reads.bam 
 https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m54329U_220304_132403.hifi_reads.bam 
 https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m64076_210810_005444.hifi_reads.bam 
